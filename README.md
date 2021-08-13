@@ -24,9 +24,10 @@
 🥖&nbsp;&nbsp;&nbsp;SQL<br>
 📜&nbsp;&nbsp;&nbsp;HTML<br>
 💈&nbsp;&nbsp;&nbsp;CSS<br>
+🖥️&nbsp;&nbsp;&nbsp;Building computers<br>
+🗺️&nbsp;&nbsp;&nbsp;Networking<br>
 🚑&nbsp;&nbsp;&nbsp;Ansible<br>
 👽&nbsp;&nbsp;&nbsp;Linux<br>
-🖥️&nbsp;&nbsp;&nbsp;Building computers<br>
 
 <!--
 **Natsku123/Natsku123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
