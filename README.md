@@ -1,12 +1,13 @@
 ### 👋 Hi, I'm Max Mecklin
 <p>
-🏫&nbsp;&nbsp;&nbsp;I'm a student, studying inorder to become *Master of Science (Electrical Engineering)* or *Sähkötekniikan Diplomi-insinööri* in Finnish in Tampere University<br>
-☮️&nbsp;&nbsp;&nbsp;During 2021 I'm actually completing my civilian service (alternative for military service) so no studying this year 😅, also in Tampere University (ICT faculty)<br>
-💰&nbsp;&nbsp;&nbsp;I'm an entrepreneur, I'm a sole proprietor and I have a company Muisoft with a few friends.<br>
-🌍&nbsp;&nbsp;&nbsp;I'm currently mostly working on fullstack projects, Tampere University, Muisoft and also a few hobby projects<br>
-💻&nbsp;&nbsp;&nbsp;I'm a sysadmin of my own homelab and for Muisoft<br>
-🖥️&nbsp;&nbsp;&nbsp;I love building computers<br>
-🗺️&nbsp;&nbsp;&nbsp;I love networking (not the social kind 😆)<br>
+  🏫&nbsp;&nbsp;&nbsp;I'm a student, studying inorder to become <i>Master of Science (Electrical Engineering)</i> or <i>Sähkötekniikan Diplomi-insinööri</i> in Finnish in Tampere University<br>
+  ☮️&nbsp;&nbsp;&nbsp;During 2021 I'm actually completing my civilian service (alternative for military service) so no studying this year 😅, also in Tampere University (ICT faculty)<br>
+  💰&nbsp;&nbsp;&nbsp;I'm an entrepreneur: I'm a sole proprietor and I have a company Muisoft with a few friends.<br>
+  🌍&nbsp;&nbsp;&nbsp;I'm currently mostly working on fullstack projects, Tampere University, Muisoft and also a few hobby projects<br>
+  💻&nbsp;&nbsp;&nbsp;I'm a sysadmin of my own homelab and for Muisoft<br>
+  🖥️&nbsp;&nbsp;&nbsp;I love building computers<br>
+  🗺️&nbsp;&nbsp;&nbsp;I love networking (not the social kind 😆)<br>
+  🥳&nbsp;&nbsp;&nbsp;I participate in organizing <a href="https://assembly.org/">Assembly events</a> as a Netcrew member<br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Natsku123&show_icons=true&theme=radical" alt="Natsku123's GitHub stats"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natsku123&theme=tokyonight&layout=compact" alt="Natsku 123 :: Top Langs"/>
