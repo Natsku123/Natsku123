@@ -1,37 +1,32 @@
-### Hi, I'm Max Mecklin
-
-and here is some information about me:<br>
-🏫 I'm a student, studying inorder to become *Master of Science (Electrical Engineering)* or *Sähkötekniikan Diplomi-insinööri* in Finnish in Tampere University<br>
-☮️ During 2021 I'm actually completing my civilian service (alternative for military service) so no studying this year 😅, also in Tampere University (ICT faculty)<br>
-💰 I'm an entrepreneur, I'm a sole proprietor and I have a company Muisoft with a few friends.<br>
-🌍 I'm currently mostly working on fullstack projects, Tampere University, Muisoft and also a few hobby projects<br>
-💻 I'm a sysadmin of my own homelab and for Muisoft<br>
+### 👋 Hi, I'm Max Mecklin
+<p>
+🏫&nbsp;&nbsp;&nbsp;I'm a student, studying inorder to become *Master of Science (Electrical Engineering)* or *Sähkötekniikan Diplomi-insinööri* in Finnish in Tampere University<br>
+☮️&nbsp;&nbsp;&nbsp;During 2021 I'm actually completing my civilian service (alternative for military service) so no studying this year 😅, also in Tampere University (ICT faculty)<br>
+💰&nbsp;&nbsp;&nbsp;I'm an entrepreneur, I'm a sole proprietor and I have a company Muisoft with a few friends.<br>
+🌍&nbsp;&nbsp;&nbsp;I'm currently mostly working on fullstack projects, Tampere University, Muisoft and also a few hobby projects<br>
+💻&nbsp;&nbsp;&nbsp;I'm a sysadmin of my own homelab and for Muisoft<br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Natsku123&show_icons=true&theme=radical" alt="Natsku123's GitHub stats"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natsku123&theme=tokyonight&layout=compact" alt="Natsku 123 :: Top Langs"/>
+</p>
 
 #### Languages
-🇫🇮 Finnish<br>
-🇬🇧 English<br>
-🇸🇪 Swedish (minimal)<br>
-🇩🇪 German (even more minimal)<br>
+🇫🇮&nbsp;&nbsp;&nbsp;Finnish<br>
+🇬🇧&nbsp;&nbsp;&nbsp;English<br>
+🇸🇪&nbsp;&nbsp;&nbsp;Swedish (minimal)<br>
+🇩🇪&nbsp;&nbsp;&nbsp;German (even more minimal)<br>
 
 #### Tech
-🐍 Python<br>
-🎰 Javascript<br>
-🐤 C/C++/Arduino<br>
-🐋 Docker<br>
-🥖 SQL<br>
-📜 HTML<br>
-💈 CSS<br>
-🚑 Ansible<br>
-👽 Linux<br>
-🖥️ Building computers<br>
-
-#### Frameworks
-🌴 FastAPI<br>
-🍞 React.js<br>
-🥑 Vue.js<br>
-🌳 Flask<br>
-🧊 Angular.js<br>
-🤠 Django<br>
+🐍&nbsp;&nbsp;&nbsp;Python - FastAPI, Flask, Django<br>
+🎰&nbsp;&nbsp;&nbsp;Javascript - React.js, Vue,js, Angular.js<br>
+🐤&nbsp;&nbsp;&nbsp;C/C++/Arduino<br>
+🐋&nbsp;&nbsp;&nbsp;Docker<br>
+🥖&nbsp;&nbsp;&nbsp;SQL<br>
+📜&nbsp;&nbsp;&nbsp;HTML<br>
+💈&nbsp;&nbsp;&nbsp;CSS<br>
+🚑&nbsp;&nbsp;&nbsp;Ansible<br>
+👽&nbsp;&nbsp;&nbsp;Linux<br>
+🖥️&nbsp;&nbsp;&nbsp;Building computers<br>
 
 <!--
 **Natsku123/Natsku123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
