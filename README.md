@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natsku123&theme=tokyonight&layout=compact" alt="Natsku 123 :: Top Langs"/>
 </p>
 
-#### Languages
+#### 💬 I speak / write
 🇫🇮&nbsp;&nbsp;&nbsp;Finnish<br>
 🇬🇧&nbsp;&nbsp;&nbsp;English<br>
 🇸🇪&nbsp;&nbsp;&nbsp;Swedish (minimal)<br>
@@ -36,6 +36,11 @@
   <a href="https://traefik.io/traefik/"><img src="https://github.com/traefik/traefik/blob/master/webui/src/statics/icons/icon-512x512.png?raw=true" alt="Traefik" width="40" height="40"/></a>
   <a href="https://about.gitlab.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="40" height="40"/></a>
   <a href="https://www.raspberrypi.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.sqlalchemy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
+  <a href="https://yarnpkg.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="Yarn" width="40" height="40"/></a>
+  <a href="https://discordpy.readthedocs.io/en/stable/"><img src="https://discordpy.readthedocs.io/en/stable/_static/discord_py_logo.ico" alt="Discord.py" width="40" height="40"/></a>
 </p>
 
 <!--
