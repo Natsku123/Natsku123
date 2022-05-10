@@ -2,7 +2,7 @@
 <p>
   🏫&nbsp;&nbsp;&nbsp;I'm a student, studying to become <i>Master of Science (Electrical Engineering)</i> or <i>Sähkötekniikan Diplomi-insinööri</i> in Finnish in Tampere University<br>
   💰&nbsp;&nbsp;&nbsp;I'm an entrepreneur: I'm a sole proprietor and I work with a few companies in the IT field.<br>
-  🌍&nbsp;&nbsp;&nbsp;I'm currently mostly working on fullstack projects in Tampere University and also a few hobby projects<br>
+  👨‍💻&nbsp;&nbsp;&nbsp;I'm currently working in Tampere University with MATLAB. I also work on few hobby projects.<br>
   💻&nbsp;&nbsp;&nbsp;I'm a sysadmin of my own homelab<br>
   🖥️&nbsp;&nbsp;&nbsp;I love building computers<br>
   🗺️&nbsp;&nbsp;&nbsp;I love networking (not the social kind 😆)<br>
