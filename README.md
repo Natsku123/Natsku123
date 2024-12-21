@@ -4,7 +4,7 @@
   👨‍💻&nbsp;&nbsp;&nbsp;I'm currently working for Nokia as Software Engineer, developing embedded software<br>
   💻&nbsp;&nbsp;&nbsp;I'm a sysadmin of my own homelab<br>
   🖥️&nbsp;&nbsp;&nbsp;I love building computers<br>
-  🗺️&nbsp;&nbsp;&nbsp;I love networking (not the social kind 😆)<br>
+  🗺️&nbsp;&nbsp;&nbsp;I love networking<br>
   🥳&nbsp;&nbsp;&nbsp;I participate in organizing <a href="https://assembly.org/">Assembly events</a> as a Netcrew member<br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Natsku123&show_icons=true&theme=radical" alt="Natsku123's GitHub stats"/><br>
