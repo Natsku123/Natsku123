@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Max Mecklin
 <p>
   🏫&nbsp;&nbsp;&nbsp;I graduated as <i>Master of Science (Electrical Engineering)</i> or <i>Sähkötekniikan Diplomi-insinööri</i> in Finnish from Tampere University in 2024<br>
-  👨‍💻&nbsp;&nbsp;&nbsp;I'm currently working for Nokia as Software Engineer, developing embedded software<br>
+  👨‍💻&nbsp;&nbsp;&nbsp;I'm currently working for Nokia as Senior Software Engineer, developing embedded software<br>
   💻&nbsp;&nbsp;&nbsp;I'm a sysadmin of my own homelab<br>
   🖥️&nbsp;&nbsp;&nbsp;I love building computers<br>
   🗺️&nbsp;&nbsp;&nbsp;I love networking<br>
